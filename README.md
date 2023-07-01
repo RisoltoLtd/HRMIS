@@ -1,2 +1,3 @@
-# HRMIS
-Few modules of the HRMIS code
+This code is maintained by Risolto Technologies.
+
+For support and more information, please visit https://www.risolto.co.uk
